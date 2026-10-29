@@ -1,0 +1,7 @@
+Date,Book_ID,Book_Title,Author,Category,Price,Stock_Quantity,Units_Sold
+2026-10-01,101,Python Programming,John Smith,Programming,500,20,12
+2026-10-02,102,Data Science Basics,Emily Brown,Data Science,650,15,8
+2026-10-03,103,Machine Learning,David Miller,AI,800,10,5
+2026-10-04,104,Web Development,Sarah Wilson,Programming,450,25,15
+2026-10-05,105,Artificial Intelligence,Robert Taylor,AI,900,8,4
+2026-10-06,106,Database Systems,James Anderson,Database,550,18,10
